@@ -1,0 +1,117 @@
+while wait() do
+local args = {
+	"Servers",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"UpgradeCPU",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Firewall",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"UpgradeStorage",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Code",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Badwidth",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"AutoclickerTime",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"GoldChance",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Advertisement",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"LoadBalancer",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Encryptor",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"DDOSU",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Cloud",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"HardwareUpgrades",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Advertisement",
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Upgrade"):InvokeServer(unpack(args))
+local args = {
+	"Bitcoin"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"ServerTier"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"Packager"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"SuperCPU"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"Redundancy"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"SuperAdvertisement"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"CPUSpeed"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"MachineCode"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"RobotStaff"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+local args = {
+	"FiberCables"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("GUpgrade"):InvokeServer(unpack(args))
+end
