@@ -1,0 +1,11 @@
+while wait() do
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("AddFriendMulti"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Pickup"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("GoldPickup"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("DiamondPickup"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("VoidPickup"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("AFKThing"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("EssenceGenerator"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MoreEssenceUPGMax"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CombineEssencePress"):FireServer()
+end
