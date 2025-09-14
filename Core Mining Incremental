@@ -1,0 +1,51 @@
+while wait() do
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("SellOre"):FireServer()
+local args = {
+	2
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Upgrade"):FireServer(unpack(args))
+local args = {
+	1
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Upgrade"):FireServer(unpack(args))
+local args = {
+	1
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	2
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	3
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	4
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	5
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	6
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	7
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	8
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	9
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+local args = {
+	10
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("MineOre"):FireServer(unpack(args))
+end
