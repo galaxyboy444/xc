@@ -1,0 +1,166 @@
+while wait() do
+local args = {
+	vector.create(11, 0, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 0, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 0, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 1, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 0, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 1, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 2, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 1, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 0, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 0, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 1, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 2, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 3, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 2, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 1, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 0, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 2, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 0, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 1, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 2, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 2, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 2, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 2, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 1, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 0, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(11, 2, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 1, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 0, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 0, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 1, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 2, -69)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(10, 2, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 1, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 2, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 2, -70)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 1, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 0, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(9, 2, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 1, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 2, -71)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+local args = {
+	vector.create(8, 2, -72)
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services"):WaitForChild("BuildService"):WaitForChild("RF"):WaitForChild("Place"):InvokeServer(unpack(args))
+end
