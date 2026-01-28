@@ -123,117 +123,94 @@ local args = {
 "Platform"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Square"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Tulip"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "SmallCube"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "SmallSphere"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Wedge"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Tree"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Flower"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Wall"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "SmallCylinder"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "BasicJumps"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Crate"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "MicroCube"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "BigCylinder"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "BigSphere"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Truss"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "BallJumps"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Fence"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "DamageBrick"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Ice"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "RainbowTrusses"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Water"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "KillBrick"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
-
 local args = {
 "Dissapearing"
 }
