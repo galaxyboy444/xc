@@ -215,4 +215,68 @@ local args = {
 "Dissapearing"
 }
 game:GetService("ReplicatedStorage"):WaitForChild("BuyItemEvent"):FireServer(unpack(args))
+local args = {
+	2
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	4
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	5
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	6
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	7
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	8
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	9
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	10
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	11
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	12
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	13
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	14
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	15
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	16
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	17
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
+local args = {
+	18
+}
+game:GetService("ReplicatedStorage"):WaitForChild("PurchaseUpgradeEvent"):FireServer(unpack(args))
 end
